@@ -86,4 +86,6 @@ The application was developed in stages as part of the programming assignment. I
    Available at: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes  
    Accessed: 17 September 2026.
 
+8. W3Schools. (n.d.). *Java String Methods Reference*. Available at: https://www.w3schools.com/java/java_ref_string.asp (Accessed: 19 October 2026).
+
 # ProgrammingAssignment #SoftwareDevelopment #JavaProject #JUnit #GitHubActions
